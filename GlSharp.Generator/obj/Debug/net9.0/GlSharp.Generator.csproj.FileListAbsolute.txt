@@ -1,0 +1,14 @@
+/home/adrian/source/GlSharp/GlSharp.Generator/bin/Debug/net9.0/GlSharp.Generator
+/home/adrian/source/GlSharp/GlSharp.Generator/bin/Debug/net9.0/GlSharp.Generator.deps.json
+/home/adrian/source/GlSharp/GlSharp.Generator/bin/Debug/net9.0/GlSharp.Generator.runtimeconfig.json
+/home/adrian/source/GlSharp/GlSharp.Generator/bin/Debug/net9.0/GlSharp.Generator.dll
+/home/adrian/source/GlSharp/GlSharp.Generator/bin/Debug/net9.0/GlSharp.Generator.pdb
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.AssemblyInfoInputs.cache
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.AssemblyInfo.cs
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.csproj.CoreCompileInputs.cache
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.dll
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/refint/GlSharp.Generator.dll
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.pdb
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/GlSharp.Generator.genruntimeconfig.cache
+/home/adrian/source/GlSharp/GlSharp.Generator/obj/Debug/net9.0/ref/GlSharp.Generator.dll

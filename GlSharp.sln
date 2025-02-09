@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlSharp", "GlSharp\GlSharp.csproj", "{88F7BE3B-86D2-4F6B-B399-3BC6F39FD96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlSharp.Generator", "GlSharp.Generator\GlSharp.Generator.csproj", "{018C5688-6A22-429A-8ACF-AA7573C999CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F7BE3B-86D2-4F6B-B399-3BC6F39FD96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F7BE3B-86D2-4F6B-B399-3BC6F39FD96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F7BE3B-86D2-4F6B-B399-3BC6F39FD96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F7BE3B-86D2-4F6B-B399-3BC6F39FD96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018C5688-6A22-429A-8ACF-AA7573C999CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018C5688-6A22-429A-8ACF-AA7573C999CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018C5688-6A22-429A-8ACF-AA7573C999CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018C5688-6A22-429A-8ACF-AA7573C999CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

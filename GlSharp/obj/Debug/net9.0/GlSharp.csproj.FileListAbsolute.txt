@@ -1,0 +1,11 @@
+/home/adrian/source/GlSharp/GlSharp/bin/Debug/net9.0/GlSharp.deps.json
+/home/adrian/source/GlSharp/GlSharp/bin/Debug/net9.0/GlSharp.dll
+/home/adrian/source/GlSharp/GlSharp/bin/Debug/net9.0/GlSharp.pdb
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.AssemblyInfoInputs.cache
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.AssemblyInfo.cs
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.csproj.CoreCompileInputs.cache
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.dll
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/refint/GlSharp.dll
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/GlSharp.pdb
+/home/adrian/source/GlSharp/GlSharp/obj/Debug/net9.0/ref/GlSharp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuVHcbV9V5I=",
+  "success": true,
+  "projectFilePath": "/home/adrian/source/GlSharp/GlSharp/GlSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/adrian/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.0/microsoft.aspnetcore.app.ref.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
