@@ -19,7 +19,7 @@ public unsafe partial class Gl(Gl.GetProcAddress getProcAddress)
 
 	public uint CreateShader(GlShaderType shaderType) => _glCreateShader((uint)shaderType);
 	public void DeleteShader(uint shader) => _glDeleteShader(shader);
-	public void ShaderSource(uint shader, int count, byte* str, int* length) => _glShaderSource(shader, count, str, length);
+	public void ShaderSource(uint shader, int count, byte** str, int* length) => _glShaderSource(shader, count, (byte*)str, length);
 	public void CompileShader(uint shader) => _glCompileShader(shader);
 
 	public void ShaderSource(uint shader, string source)
@@ -29,7 +29,7 @@ public unsafe partial class Gl(Gl.GetProcAddress getProcAddress)
 		Encoding.UTF8.GetBytes(source, strBuf);
 
 		fixed (byte* strBufPtr = strBuf)
-			_glShaderSource(shader, 1, strBufPtr, &length);
+			ShaderSource(shader, 1, &strBufPtr, &length);
 	}
 
 	public int GetShader(uint shader, GlShaderParameterName pname)
