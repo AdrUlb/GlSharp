@@ -67,6 +67,20 @@ public unsafe partial class Gl(Gl.GetProcAddress getProcAddress)
 		return param;
 	}
 
+	public string GetProgramInfoLog(uint program)
+	{
+		var infoLogLength = GetProgram(program, GlProgramParameterName.InfoLogLength);
+		if (infoLogLength == 0)
+			return "";
+
+		Span<byte> buffer = stackalloc byte[infoLogLength];
+		int length;
+		fixed (byte* bufferPtr = buffer)
+			_glGetProgramInfoLog(program, infoLogLength, &length, bufferPtr);
+
+		return Encoding.UTF8.GetString(buffer[..length]);
+	}
+
 	public void UseProgram(uint program) => _glUseProgram(program);
 
 
